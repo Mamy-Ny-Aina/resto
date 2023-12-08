@@ -12,6 +12,7 @@
 		<p>  <input type="text" name="nom"> </p>
 		<p>  <input type="text" name="prenom"> </p>
 		<p>  <input type="text" name="contact"> </p>
+		<h1>cc</h1>
 		<input type="submit" value="insertion">
 	</form>
 </body>
